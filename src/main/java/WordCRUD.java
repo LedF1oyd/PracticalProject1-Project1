@@ -42,6 +42,13 @@ public class WordCRUD implements ICRUD{ //ICRUD를 구현
         System.out.println("-----------------------------------");
         for(int i=0;i<list.size();i++){
             System.out.print((i+1)+" ");
+            System.out.println(list.get(i).toString());
         }
+        System.out.println("-----------------------------------");
+    }
+
+    public void exit() {
+        System.out.println("프로그램을 종료합니다. 이용해주셔서 감사합니다.");
+        System.exit(0);
     }
 }
