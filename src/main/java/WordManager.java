@@ -29,7 +29,7 @@ public class WordManager {
                 wordCRUD.exit();
             }
             if(menu==4){
-                wordCRUD.addWord();
+                wordCRUD.addItem();
             }
             else if(menu==1){
                 wordCRUD.listAll();
@@ -39,7 +39,7 @@ public class WordManager {
                 wordCRUD. updateItem();
             }
             else if(menu==6){
-                //delete
+                wordCRUD.deleteItem();
             }
 
 
