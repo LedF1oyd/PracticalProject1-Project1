@@ -7,17 +7,27 @@ public class WordCRUD implements ICRUD{ //ICRUD를 구현
     Scanner s;
     final String fname = "Dictionary.txt";
     WordCRUD(Scanner s){
-        list = new ArrayList<>();
+        list = new ArrayList<>();//type을 지정하지 않고 ArrayList 생성
         this.s = s;
     }
     @Override
     public Object add() {
         System.out.print("=> 난이도(1,2,3) & 새로운 영단어 입력: ");
-        int level = s.nextInt();
-        String word = s.nextLine();
+        int level;
+        String word;
+        while (true) {
+            level = s.nextInt();
+            word = s.nextLine();
+            if (level < 4 && level > 0) {
+                break;
+            } else {
+                System.out.println("난이도는 1~3 사이어야 합니다.");
+                System.out.print("=> 난이도(1,2,3) & 새로운 영단어 입력: ");
+            }
+        }
         System.out.println("뜻 입력: ");
         String meaning = s.nextLine();
-        return new Word(0, level, word, meaning);
+        return new Word(level, word, meaning);
     }
     public void addItem(){
         Word one = (Word)add();
@@ -117,7 +127,7 @@ public class WordCRUD implements ICRUD{ //ICRUD를 구현
                 int level = Integer.parseInt(data[0]);//난이도
                 String word = data[1];//단어
                 String meaning = data[2];//뜻
-                list.add(new Word(0, level, word, meaning));
+                list.add(new Word(level, word, meaning));
                 count++;
             }
             br.close();
@@ -132,7 +142,7 @@ public class WordCRUD implements ICRUD{ //ICRUD를 구현
             PrintWriter pr = new PrintWriter(new FileWriter(fname));
             for(Word one : list){
                 pr.write(one.toFileString()+"\n");
-;            }
+            }
             pr.close();
             System.out.println("==> 데이터 저장 완료!!!");
         } catch (IOException e) {
@@ -142,13 +152,23 @@ public class WordCRUD implements ICRUD{ //ICRUD를 구현
 
     public void searchLevel() {
         System.out.println("=> 원하는 레벨은 (1~3)? ");
-        int level = s.nextInt();
+        int level;
+        while(true) {
+            level = s.nextInt();
+            if(level<4&&level>0){
+                break;
+            }
+            else{
+                System.out.println("레벨은 1~3 사이어야 합니다.\n"+"=> 원하는 레벨은 (1~3)? ");
+            }
+
+        }
         listAll(level);
     }
 
     public void searchWord() {
         System.out.println("=> 원하는 단어는? ");
-        int keyword = s.nextInt();
+        String keyword = s.next();
         listAll(keyword);
     }
 }
