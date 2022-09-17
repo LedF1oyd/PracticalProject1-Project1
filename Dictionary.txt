@@ -1,7 +1,6 @@
 3|superintendent|관리자, 감독관
 1|electric|전기의, 전기를생산하는
 2|equipment|장비, 용품
-1|pole|기둥, 장대
 1|formerly|이전에, 예전에
 2|executive|경영간부, 임원
 1|assure|안심시키다, 확신시키다
@@ -12,4 +11,4 @@
 1|lone|혼자인, 단독의, 외딴
 1|glance|흘긋보다, 대강훑어보다
 2|conscious|의식하는, 자각하는
-2|overkill|지나침, 과잉
+2|overkill|오버킬
