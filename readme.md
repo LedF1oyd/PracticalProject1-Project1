@@ -16,5 +16,5 @@
 
 프로그램 새로 실행시 파일에 있는 단어를 가져오고, 1번 메뉴 실행시 단어를 출력하는 모습
 <p align="center">
-    <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/0c09e652f12fdd1b4e0e93ae0fb8dfd3bde06de3/src/main/java/Screenshot/스크린샷 2022-09-17 오후 6.16.44.png width=500>
+    <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/c1efffe0f69cb173840c1010d7e4aa0d7e6bfef0/src/main/java/Screenshot/5.png width=500>
   </p>
