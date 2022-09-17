@@ -49,5 +49,10 @@
 <p align="center">
     <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/c1efffe0f69cb173840c1010d7e4aa0d7e6bfef0/src/main/java/Screenshot/wordsave2.png width=500>
       </p>
+      
+7. 파일 저장 후 프로그램 실행시 단어가 로딩된 모습
+ <p align="center">
+    <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/c1efffe0f69cb173840c1010d7e4aa0d7e6bfef0/src/main/java/Screenshot/newstart.png width=500>
+      </p>
 
     
