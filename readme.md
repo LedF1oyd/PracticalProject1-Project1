@@ -4,30 +4,30 @@
 <p align="center">
     <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/3941cf55482a42df22d28f023b0bcd1bb5656b79/Screenshot/1.png width=500>
   </p>
-    <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/a71451c524dae680dd544780a14b6b819749343a/Screenshot/2.png width=500>
+    <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/3941cf55482a42df22d28f023b0bcd1bb5656b79/Screenshot/2.png width=500>
   </p align="center">
 <p align="center">
-    <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/a71451c524dae680dd544780a14b6b819749343a/Screenshot/3.png width=500>
+    <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/3941cf55482a42df22d28f023b0bcd1bb5656b79/Screenshot/3.png width=500>
   </p>
 2. 설치한 IDE
 <p align="center">
-    <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/0c09e652f12fdd1b4e0e93ae0fb8dfd3bde06de3/Screenshot/4.png width=500>
+    <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/3941cf55482a42df22d28f023b0bcd1bb5656b79/Screenshot/4.png width=500>
 </p>
 
 3주차
 1. 프로그램 새로 실행시 파일에 있는 단어를 가져오고, 1번 메뉴 실행시 단어를 출력하는 모습
 <p align="center">
-    <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/c1efffe0f69cb173840c1010d7e4aa0d7e6bfef0/src/main/java/Screenshot/5.png width=500>
+    <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/3941cf55482a42df22d28f023b0bcd1bb5656b79/Screenshot/5.png width=500>
 </p>
   
 2. 2번 수준별 단어보기 실행결과
 <p align="center">
-    <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/c1efffe0f69cb173840c1010d7e4aa0d7e6bfef0/src/main/java/Screenshot/6.png width=500>
+    <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/3941cf55482a42df22d28f023b0bcd1bb5656b79/Screenshot/6.png width=500>
 </p>
   
 3. 3번 단어검색 실행결과
 <p align="center">
-    <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/c1efffe0f69cb173840c1010d7e4aa0d7e6bfef0/src/main/java/Screenshot/7.png width=500>
+    <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/3941cf55482a42df22d28f023b0bcd1bb5656b79/Screenshot/7.png width=500>
 </p>
 
     
