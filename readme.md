@@ -4,6 +4,7 @@
 <p align="center">
     <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/3941cf55482a42df22d28f023b0bcd1bb5656b79/Screenshot/1.png width=500>
   </p>
+ <p align="center">
     <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/3941cf55482a42df22d28f023b0bcd1bb5656b79/Screenshot/2.png width=500>
   </p align="center">
 <p align="center">
@@ -33,25 +34,25 @@
     
 4. 5번 단어수정 실행결과
 <p align="center">
-    <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/c1efffe0f69cb173840c1010d7e4aa0d7e6bfef0/src/main/java/Screenshot/wordupdate.png width=500>
+    <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/3941cf55482a42df22d28f023b0bcd1bb5656b79/Screenshot/wordupdate.png width=500>
       </p>
     
 5. 6번 단어삭제 실행결과
  <p align="center">
-    <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/c1efffe0f69cb173840c1010d7e4aa0d7e6bfef0/src/main/java/Screenshot/worddelete.png width=500>
+    <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/3941cf55482a42df22d28f023b0bcd1bb5656b79/Screenshot/worddelete.png width=500>
       </p>
 
 6. 7번 단어삭제 실행결과와 파일에 저장된 모습
 <p align="center">
-    <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/c1efffe0f69cb173840c1010d7e4aa0d7e6bfef0/src/main/java/Screenshot/wordsave1.png width=500>
+    <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/3941cf55482a42df22d28f023b0bcd1bb5656b79/Screenshot/wordsave1.png width=500>
       </p>
 <p align="center">
-    <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/c1efffe0f69cb173840c1010d7e4aa0d7e6bfef0/src/main/java/Screenshot/wordsave2.png width=500>
+    <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/3941cf55482a42df22d28f023b0bcd1bb5656b79/Screenshot/wordsave2.png width=500>
       </p>
       
 7. 파일 저장 후 프로그램 실행시 단어가 로딩된 모습
  <p align="center">
-    <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/f79008f3e817be3f67356b7e63d6314ca2da135d/src/main/java/Screenshot/newstart.png width=500>
+    <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/3941cf55482a42df22d28f023b0bcd1bb5656b79/Screenshot/newstart.png width=500>
       </p>
 
     
