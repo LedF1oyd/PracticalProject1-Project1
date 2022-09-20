@@ -4,14 +4,14 @@
 <p align="center">
     <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/3941cf55482a42df22d28f023b0bcd1bb5656b79/Screenshot/1.png width=500>
   </p>
-    <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/a71451c524dae680dd544780a14b6b819749343a/src/main/java/Screenshot/2.png width=500>
-  </p>
+    <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/a71451c524dae680dd544780a14b6b819749343a/Screenshot/2.png width=500>
+  </p align="center">
 <p align="center">
-    <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/a71451c524dae680dd544780a14b6b819749343a/src/main/java/Screenshot/3.png width=500>
+    <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/a71451c524dae680dd544780a14b6b819749343a/Screenshot/3.png width=500>
   </p>
 2. 설치한 IDE
 <p align="center">
-    <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/0c09e652f12fdd1b4e0e93ae0fb8dfd3bde06de3/src/main/java/Screenshot/4.png width=500>
+    <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/0c09e652f12fdd1b4e0e93ae0fb8dfd3bde06de3/Screenshot/4.png width=500>
 </p>
 
 3주차
