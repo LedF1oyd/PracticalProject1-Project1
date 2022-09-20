@@ -2,7 +2,7 @@
 2주차
 1. 실행화면
 <p align="center">
-    <img src= [https://github.com/LedF1oyd/PracticalProject1-Project1/blob/3941cf55482a42df22d28f023b0bcd1bb5656b79/Screenshot/1.png width=500>
+    <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/3941cf55482a42df22d28f023b0bcd1bb5656b79/Screenshot/1.png width=500>
   </p>
     <img src= https://github.com/LedF1oyd/PracticalProject1-Project1/blob/a71451c524dae680dd544780a14b6b819749343a/src/main/java/Screenshot/2.png width=500>
   </p>
